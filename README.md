@@ -1,6 +1,6 @@
 ## Hey! Nice to see you.
 - 👋 I’m Karlo, a passionate self-taught full stack web developer.
-- <h3>Tools I work with:</h3>
+<h3>Tools I work with:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
