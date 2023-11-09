@@ -31,8 +31,8 @@ I bring valuable experience in version control using **Git** and building robust
 <!-- GitHub Stats -->
 ### GitHub Stats:
 
-!I'm currently a full-time employee, so my Github commits are on pause...
-(https://github-readme-stats.vercel.app/api?username=carlooxx&show_icons=true&theme=radical)
+![I'm currently a full time employee, so my Github commits are on pause..](https://github-readme-stats.vercel.app/api?username=carlooxx&show_icons=true&theme=radical)
+
 
 <!-- Connect with Me -->
 ### Let's Connect:
